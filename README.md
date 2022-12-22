@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fuskus31
 
-- 🌱 I’m currently learning Java,python,SQL and C.
+
 
  
 
